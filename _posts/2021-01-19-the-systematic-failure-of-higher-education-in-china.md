@@ -2,7 +2,7 @@
 layout:     post
 title:      "喜欢C语言的兴趣网站"
 subtitle:   "C语言"
-date:       2021-01-19 12:00:00
+date:       2021-01-19 
 author:     "JiYUN"
 catalog: false
 published: false
