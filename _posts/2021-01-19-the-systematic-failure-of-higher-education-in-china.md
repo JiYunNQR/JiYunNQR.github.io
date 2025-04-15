@@ -10,7 +10,7 @@ tags:
    - 
 ---
 
-> [c语言网址]点击这个网址就可以访问c语言网站(https://www.dotcpp.com/)
+> [c语言网址]点击这个网址就可以访问c语言网站(https://www.dotcpp.com)
 
 
 
